@@ -11,7 +11,7 @@
   "dependencies": {
     "@liplum/meditree-model": "^1.2.0",
     "@vue/reactivity": "^3.4.27",
-    "filesize": "^10.1.2",
+    "filesize": "^10.1.6",
     "js-cookie": "^3.0.5",
     "video.js": "^8.12.0",
     "vue": "^3.4.27",
