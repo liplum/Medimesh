@@ -30,7 +30,7 @@
     "react-error-boundary": "^4.0.13",
     "react-localization": "^1.0.19",
     "react-markdown": "^9.0.1",
-    "react-router-dom": "^6.23.1",
+    "react-router-dom": "^7.1.1",
     "rehype-react": "^8.0.0",
     "remark-gfm": "^4.0.0",
     "use-force-update": "^1.0.11",
